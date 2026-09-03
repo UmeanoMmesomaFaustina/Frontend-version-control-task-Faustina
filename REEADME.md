@@ -1,6 +1,6 @@
 ﻿Demonstration of version control knowledge
  
-#first branch
+# first branch
 The text_format: display different formats for the text such as punctuation, uppercase and lowercase
 
 # Second branch
